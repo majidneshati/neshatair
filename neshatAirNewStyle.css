@@ -166,5 +166,8 @@ p,h1,h2,h3,h4,h5,h6,a,li,li a,ul li,label,input,
     background-color: #660099 !important;
     border-radius: 2px;
 }
+.sr_table .t_table{
+        padding: 10px 4px;
+}
 
 

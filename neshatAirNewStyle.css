@@ -133,8 +133,8 @@ body .timeTo ul li,
 }
 
 /*----------------------------------------*/
-p,h1,h2,h3,h4,h5,h6,a,li,li a,ul li,label,input
-.title,.sub,
+p,h1,h2,h3,h4,h5,h6,a,li,li a,ul li,label,input,
+.title,.sub
 {
     font: normal 13px/20px vazir,chfont,tahoma !important;
 }

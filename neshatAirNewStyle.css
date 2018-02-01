@@ -129,7 +129,7 @@ body .timeTo ul li,
     background:none !important;
 }
 #main_menu ul li {
-    background:url("img/libg1.gif") no-repeat scroll left center;
+   /* background:url("img/libg1.gif") no-repeat scroll left center; */
 }
 
 /*----------------------------------------*/

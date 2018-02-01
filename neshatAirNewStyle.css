@@ -164,6 +164,7 @@ p,h1,h2,h3,h4,h5,h6,a,li,li a,ul li,label,input
 }
 .sr_table .t_head{
     background-color: #660099 !important;
+    border-radius: 2px;
 }
 
 

@@ -25,7 +25,6 @@ p,h1,h2,h3,h4,h5,h6,a,li,li a,ul li,label,input,.title,.sub{font:vazir,chfont,ta
 .sr_table{box-shadow:0 0 6px 1px #6600993d;border-radius:0!important}
 .sr_table .t_head{background-color:#609!important;border-radius:2px}
 .sr_table .t_table{padding:10px 4px}
-
 #social_box{display:none}
 #footer{padding: 14px 0; background: #660099 !important;}
 #footer_menu {background-color: #5f098a !important}
@@ -33,3 +32,4 @@ p,h1,h2,h3,h4,h5,h6,a,li,li a,ul li,label,input,.title,.sub{font:vazir,chfont,ta
 #address_footer ul{float: inherit;max-width: 100%; display: block;}
 #address_footer ul li{display: inline-block;text-align: center;color: #ffffff;padding: 0 13px;}
 #address_footer ul li i{color: #fff;}
+.cnt_title{background-color: #660099;padding: 5px 20px;}

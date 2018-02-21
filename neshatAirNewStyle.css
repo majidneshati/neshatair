@@ -26,7 +26,7 @@ p,h1,h2,h3,h4,h5,h6,a,li,li a,ul li,label,input,.title,.sub{font:vazir,chfont,ta
 .sr_table .t_head{background-color:#609!important;border-radius:2px}
 .sr_table .t_table{padding:10px 4px}
 #social_box{display:none}
-#footer{padding: 14px 0;}
+#footer{padding: 14px 0; background: #660099 !important;}
 #footer_menu {background-color: #5f098a !important}
 #address_footer{text-align: center;}
 #address_footer ul{float: inherit;max-width: 100%; display: block;}

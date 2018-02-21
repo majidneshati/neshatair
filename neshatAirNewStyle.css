@@ -6,7 +6,7 @@ body{font:13px/18px vazir,chfont,tahoma!important}
 .adpmain a.nav:hover,.adpmain a.monYear:hover,div.monthYearPicker a:hover,div.monthYearPicker a.selected,.adpmain a.selected{background-color:#609}
 .resu .price{background-color:#ad8699}
 #footer,#sidebar .widg,.ch_button .bg,.sr_table,#sidebar_result .widg,.resu,#main_nav,#second_menu ul ul,body .calcu_table .box .price{background-color:#f9f9f9}
-#footer_menu,.sr_table .t_head,#copyright,#sidebar_result .sb_res_title,.search_result_box .tabbs li,.resu .select,.adpmain td.calWeekdays,.adpmain td.pickerFoot a{background-color:#9eafaa!important}
+#footer_menu,.sr_table .t_head,#copyright,#sidebar_result .sb_res_title,.search_result_box .tabbs li,.resu .select,.adpmain td.calWeekdays,.adpmain td.pickerFoot a{background-color:#9eafaa}
 .btn_res .btn_res_inn,.reserve_content .note{background:#9eafaa!important}
 .search_result_box .result_header .search_result_no,.calcu_table .titr,.content_title_box i{color:#9eafaa!important}
 .resu{border-color:#9eafaa!important}
@@ -26,3 +26,7 @@ p,h1,h2,h3,h4,h5,h6,a,li,li a,ul li,label,input,.title,.sub{font:vazir,chfont,ta
 .sr_table .t_head{background-color:#609!important;border-radius:2px}
 .sr_table .t_table{padding:10px 4px}
 #social_box{display:none}
+#footer_menu {background-color: #59265a !important;}
+
+#address_footer ul{float: inherit;max-width: 100%; display: block;}
+#address_footer ul li{display: inline-block;text-align: center;}

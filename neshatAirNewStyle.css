@@ -17,7 +17,7 @@ body{font:13px/18px vazir,chfont,tahoma!important}
 body .resu .select a:hover{background-color:#9fa6a4!important}
 body .timeTo ul li,.reserve_sidebar_cnt .res_widg_inn,.reserve_sidebar_cnt .res_widg .titr,.search_result_box .result_header .search_result_no{color:#677a7e}
 .sr_table .line{background:none!important}
-p,h1,h2,h3,h4,h5,h6,a,li,li a,ul li,label,input,.title,.sub{font:vazir,chfont,tahoma!important}
+p,h1,h2,h3,h4,h5,h6,a,li,li a,ul li,label,input,.title,.sub{font-family:vazir,chfont,tahoma!important}
 #sidebar .widg{border-radius:1px;-moz-border-radius:1px;-webkit-border-radius:1px;box-shadow:0 0 8px 1px #cecece}
 #copyright,.content_title_en{display:none!important}
 #sidebar .sb_title{height:40px;line-height:40px;border-radius:1px!important;-moz-border-radius:1px!important;-webkit-border-radius:1px!important}
